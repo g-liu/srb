@@ -9,8 +9,8 @@ When it comes time to filter unwanted search results, Search Result Blocker (srb
 
 ## Installation
 
-# Install (https://addons.mozilla.org/en-US/firefox/addon/greasemonkey)[Greasemonkey]
-# Install this script
+1. Install (https://addons.mozilla.org/en-US/firefox/addon/greasemonkey)[Greasemonkey]
+2. Install this script
 
 
 ## Upcoming features
